@@ -70,31 +70,31 @@ endmodule
 
 ## HalfAdder:
 
-![image](
+![image](https://raw.githubusercontent.com/pavithran2046/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/main/ha2.png)
 
 ## FullAdder:
 
-![image](
+![image](https://raw.githubusercontent.com/pavithran2046/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/main/fa2.png)
 
 ### TIMING DIAGRAM
 
 ## HalfAdder:
 
-![image](
+![image](https://raw.githubusercontent.com/pavithran2046/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/main/ha3.png)
 
 ## FullAdder:
 
-![image](
+![image](https://raw.githubusercontent.com/pavithran2046/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/main/fa3.png)
 
 ### TRUTH TABLE 
 
 ## HalfAdder:
 
-![image](
+![image](https://raw.githubusercontent.com/pavithran2046/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/main/ha.png)
 
 ## FullAdder:
 
-![image](
+![image](https://raw.githubusercontent.com/pavithran2046/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/main/fa.png)
 
 ### Result:
 Thus the half Adder and full Adder circuits are designed and the truth tables is verified using quartus software.
